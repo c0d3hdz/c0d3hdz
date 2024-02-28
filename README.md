@@ -42,7 +42,7 @@
 
 ## Proyectos Destacados
 
-### [Fichas CBTi86](https://cbtis86.edu.mx/cbtis86.edu.mx/admision/Fichas_CBTis86/)
+### [Fichas CBTis86](https://cbtis86.edu.mx/cbtis86.edu.mx/admision/Fichas_CBTis86/)
 Un pequeño sistema para registros de preinscripción de alumnos en una preparatoria que logramos gracias a mi pequeño equipo de desarrollo novato, conformado por mis amigos [MartL7](https://github.com/MartL7).
 En este proyecto, fui responsable del diseño utilizando CSS, HTML, JS y un poco de Ajax para hacer la página más dinámica. 💤
 
