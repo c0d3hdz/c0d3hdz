@@ -15,7 +15,7 @@
 
     if(Si_tu_me_quieres){
     
-      echo'dame un sonrisa 🥭';
+      echo'dame una sonrisa 🥭';
 
     }
 
