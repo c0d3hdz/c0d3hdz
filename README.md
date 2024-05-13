@@ -36,10 +36,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 
-
-![PHP](https://img.shields.io/badge/PHP-7-blueviolet)
-
-
 ## Proyectos Destacados
 
 ### [Fichas CBTis86](https://cbtis86.edu.mx/cbtis86.edu.mx/admision/Fichas_CBTis86/)
