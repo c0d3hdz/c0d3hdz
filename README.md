@@ -3,7 +3,8 @@
 ![yo](https://avatars.githubusercontent.com/u/145168535?v=4)
 
 
-¡Bienvenido a mi rincón de código! Soy un desarrollador Full Stack novato con habilidades en Frontend y Backend. Aquí encontrarás una mezcla de proyectos interesantes, trucos de código y un poco sobre mí.
+Apasionado por el desarrollo frontend y tecnologías web. Buscando oportunidades para aplicar mis habilidades como Técnico en Programación.
+
 
 ## Sobre Mí
 🍎Nombre: Damian ;)
