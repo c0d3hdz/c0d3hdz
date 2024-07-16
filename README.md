@@ -1,51 +1,46 @@
-# ¡Hola, Soy c0d3hdz! 👋
+<h2 align="left">Hola 👋, mi nombre es Damian</h2>
 
-![yo](https://avatars.githubusercontent.com/u/145168535?v=4)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c0d3hdz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c0d3hdz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Apasionado por el desarrollo frontend y tecnologías web. Buscando oportunidades para aplicar mis habilidades como Técnico en Programación.
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+</div>
 
-## Sobre Mí
-🍎Nombre: Damian ;)
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+</div>
 
-⏳Edad: 19 años
+###
 
-🌮Nacionalidad: Mexicano
+<img align="right" height="155" src="https://avatars.githubusercontent.com/u/145168535?v=4"  />
 
-    if(Si_tu_me_quieres){
-    
-      echo'dame una sonrisa 🥭';
+###
 
-    }
+<img align="left" src="https://profile-counter.glitch.me/c0d3hdz/count.svg?"  />
 
-👨‍💻 Soy un apasionado desarrollador enfocado en la creación de experiencias web excepcionales. Mi principal enfoque es el desarrollo Frontend utilizando HTML, CSS y JavaScript, pero también tengo experiencia en el lado del servidor.
+###
 
-🚀 Intento que mis proyectos tengan siempre un diseño agradable y se asemejen lo más posible a las ideas que rondan por mi cabeza en las noches.
-  
-## Tecnologías que Amo
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/c0d3hdz/c0d3hdz/output/snake.svg" alt="Snake animation" />
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-
-
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-
-
-## Proyectos Destacados
-
-### [Fichas CBTis86](https://cbtis86.edu.mx/cbtis86.edu.mx/admision/Fichas_CBTis86/)
-Un pequeño sistema para registros de preinscripción de alumnos en una preparatoria que logramos gracias a mi pequeño equipo de desarrollo novato, conformado por mis amigos [MartL7](https://github.com/MartL7).
-En este proyecto, fui responsable del diseño utilizando CSS, HTML, JS y un poco de Ajax para hacer la página más dinámica. 💤
-
-## ¿Cómo Puedes Contactarme?
-
-- 🌐 [Portfolio](https://c0d3-frontenddev.vercel.app/)
-- 📧 marquezhernandez.damian@gmail.com
-
-¡Gracias por visitar mi perfil! Estoy emocionado de conectar y colaborar en proyectos emocionantes. 😊
+###
