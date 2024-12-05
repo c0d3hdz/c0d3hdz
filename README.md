@@ -47,7 +47,10 @@
 ###
 
 <br clear="both">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c0d3hdz/c0d3hdz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c0d3hdz/c0d3hdz/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/c0d3hdz/c0d3hdz/output/snake.svg" alt="github-snake" />
+</picture>
 
 ###
